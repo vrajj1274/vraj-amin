@@ -45,7 +45,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I'm a passionate Competitive Programmer with hands-on experience in Problem Solving, Web, and Software Development. Dive into my projects and explore the skills that power them.
+          I&apos;m a passionate Competitive Programmer with hands-on experience in Problem Solving, Web, and Software Development. Dive into my projects and explore the skills that power them.
 
         </motion.p>
       </div>
